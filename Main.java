@@ -1,5 +1,5 @@
 public static void Main(String[] args) {
-	String salutation = "Hola mundo";
+	String salutation = "Hola slopeio player";
 	System.out.println(salutation);
 	String farewell = "Adiós con el corazón";
 	System.out.println(farewell);
